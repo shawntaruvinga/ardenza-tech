@@ -70,7 +70,7 @@ const [errorMessage, setErrorMessage] = useState("");
   e.preventDefault();
 
   try {
-    const response = await fetch("/send-contact", {
+    const response = await fetch("/api/send-contact", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
