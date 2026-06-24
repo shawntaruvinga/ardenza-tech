@@ -1258,16 +1258,16 @@ Ubiquiti-based environments.
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
                 <div className="mb-6">
-                  <h4 className="text-2xl font-bold mb-4">About the Author</h4>
+                  <h4 className="text-2xl font-bold mb-4">About the Founder</h4>
                   <p className="text-white/90 text-lg leading-relaxed">
-                    These insights come from years of hands-on experience designing, troubleshooting, and optimizing enterprise networks across various industries.
+                    The insights shared here are drawn from practical experience in networking, cybersecurity, cloud technologies, and IT infrastructure. They are designed to help businesses make informed technology decisions, strengthen security, and build reliable, scalable IT environments.
                   </p>
                 </div>
                 <div className="space-y-2">
                   <p className="text-xl font-bold">Shawn Taruvinga</p>
                   <p className="text-brand-blue font-semibold">Founder & Network Consultant</p>
                   <p className="text-white/80">
-                    CCNP-certified network engineer with expertise in enterprise architecture, security, and performance optimization.
+                  Shawn is the founder of ArdenzaTech, an IT consulting company focused on delivering secure, scalable, and innovative technology solutions. His areas of interest include enterprise networking, cybersecurity, cloud solutions, and IT infrastructure optimization. Through ArdenzaTech, he works to help organizations leverage technology to improve performance, enhance security, and support long-term growth
                   </p>
                 </div>
               </div>
