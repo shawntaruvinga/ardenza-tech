@@ -274,10 +274,10 @@ setSuccessMessage("");
             </h2>
             <p className="text-xl md:text-2xl font-semibold mb-6">
               <span className="text-white">
-                Enterprise networking and IT infrastructure:
+                Secure, Scalable IT Solutions for Modern Busineses
               </span>{" "}
               <span className="text-brand-blue">
-                Engineered for performance.
+                Networking, Cybersecurity, Cloud, and infrastructure Solutions designed to keep your business connected, secure, and ready for growth
               </span>
             </p>
             <p className="text-gray-300 text-lg leading-relaxed mb-8">
@@ -285,6 +285,21 @@ setSuccessMessage("");
               and networking solutions designed to keep your business connected and
               efficient. Global delivery across the United States, GCC, Europe and beyond.
             </p>
+            <div className="flex flex-wrap gap-4">
+  <a
+    href="#contact"
+    className="bg-brand-blue text-white px-6 py-3 rounded-lg font-semibold hover:opacity-90 transition"
+  >
+    Book Free Consultation
+  </a>
+
+  <a
+    href="#services"
+    className="border border-white text-white px-6 py-3 rounded-lg font-semibold hover:bg-white hover:text-brand-navy transition"
+  >
+    View Services
+  </a>
+</div>
           </motion.div>
         </div>
       </section>
@@ -303,7 +318,7 @@ setSuccessMessage("");
             </h3>
             <div className="h-1 w-20 bg-brand-blue" />
             <div className="space-y-4 text-gray-600 leading-relaxed">
-              <p>Is a forward-thinking, technology-focused company focused on delivering high
+              <p>ArdenzaTech is a forward-thinking, technology-focused company focused on delivering high
 performance networking, IT consulting services and infrastructure solutions. built on strong
 technical expertise and a commitment to reliability we help businesses design, implement and
 maintain efficient network systems.We follow proven industry practices while adapting to modern demands, ensuring every solution is
@@ -316,8 +331,7 @@ businesses to grow.
               <p>
                 <span className="text-brand-blue">Vision:</span> To establish Ardenza Tech as a trusted IT consulting brand serving enterprises across regional and
 international markets.
-We design and deploy network solutions using industry-standard technologies including Cisco and
-Ubiquiti-based environments.
+We design and deploy network solutions using industry-standard technologies including enterprise networking, wireless, cloud, and security technologies
               </p>
             </div>
           </motion.div>
@@ -1057,7 +1071,7 @@ Ubiquiti-based environments.
               Real-World Network Wisdom
             </h3>
             <p className="text-gray-600 text-lg max-w-3xl mx-auto">
-              Hard-earned lessons from years of network consulting and troubleshooting experience
+              Practical insights drawn from networking, cybersecurity, and infrastructure best practices.
             </p>
           </div>
 
